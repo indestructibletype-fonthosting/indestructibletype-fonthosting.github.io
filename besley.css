@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'besley';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-bold-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besley';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-bolditalic-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-bolditalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+
+
+
+
+}
+@font-face {
+    font-family: 'besley';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-book-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besley';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-bookitalic-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-bookitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besleymedium';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-medium-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besleymedium';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-mediumitalic-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besleyfatface';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-fatface-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-fatface-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'besleyfatface';
+    src: url('https://indestructibletype-fonthosting.github.io/besley-fatfaceitalic-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/besley-fatfaceitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
