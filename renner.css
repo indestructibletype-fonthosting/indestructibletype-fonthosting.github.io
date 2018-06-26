@@ -144,8 +144,8 @@
 
 @font-face {
     font-family: 'rennerlight';
-    src: url('https://indestructibletype-fonthosting.github.io/fonts/renner_300_light-webfont.woff2') format('woff2'),
-         url('https://indestructibletype-fonthosting.github.io/fonts/renner_300_light-webfont.woff') format('woff');
+    src: url('https://indestructibletype-fonthosting.github.io/renner_300_light-webfont.woff2') format('woff2'),
+         url('https://indestructibletype-fonthosting.github.io/renner_300_light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
